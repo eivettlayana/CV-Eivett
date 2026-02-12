@@ -1,3 +1,7 @@
-h1 (
-    color:
-)
+h1 {
+    color: blue;
+    inline-size: 0%;
+}
+body {
+    background-color: rgb(132, 8, 112);
+}
